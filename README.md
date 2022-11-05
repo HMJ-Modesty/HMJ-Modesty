@@ -12,7 +12,7 @@
 
 <!-- 敲代码的图片 -->
 <div align="center" >
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=HMJ-Modesty&show_icons=true&theme=radical"  width = "800" height = "600"/><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HMJ-Modesty&layout=compact"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=HMJ-Modesty&show_icons=true&theme=radical"  width = "600" height = "400"/><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HMJ-Modesty&layout=compact"/>
 </div>
 
 
