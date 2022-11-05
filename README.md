@@ -11,8 +11,7 @@
 
 <!-- 个人资料徽标 -->
 <div align="center">
-  <a href="https://hmjmodesty.xyz/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
-  
+  <a href="https://hmjmodesty.xyz/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;  
 <!-- 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=HMJ-Modesty" alt="访客统计" /></div>
 
