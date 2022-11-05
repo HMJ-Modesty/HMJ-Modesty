@@ -16,4 +16,5 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=HMJ-Modesty" alt="访客统计" /></div>
 
 <!-- 贪吃蛇代码贡献图 -->
+![](https://raw.githubusercontent.com/HMJ-Modesty/HMJ-Modesty/main/assets/github-contribution-grid-snake.svg)
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/HMJ-Modesty/HMJ-Modesty/contribution-snake/github-contribution-grid-snake.svg" /></div>
