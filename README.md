@@ -4,7 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到Modesty-何同学的代码空间！！！&center=true&size=27">
   </a>
 </h1>
-![](http://antzuhl.cn:4000/get/@HMJ-Modesty)
 
 <!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
@@ -17,5 +16,4 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=HMJ-Modesty" alt="访客统计" /></div>
 
 <!-- 贪吃蛇代码贡献图 -->
-![](https://raw.githubusercontent.com/HMJ-Modesty/HMJ-Modesty/main/assets/github-contribution-grid-snake.svg)
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/HMJ-Modesty/HMJ-Modesty/contribution-snake/github-contribution-grid-snake.svg" /></div>
