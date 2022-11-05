@@ -13,7 +13,8 @@
 <!-- 敲代码的图片 -->
 <div align="center" ><img align="right" src="https://github-readme-stats.vercel.app/api?username=HMJ-Modesty&show_icons=true&theme=radical"/>
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HMJ-Modesty&layout=compact&exclude_repo=HMJ-Modesty.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HMJ-Modesty&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/HMJ-Modesty/HMJ-Modesty/assets/github-contribution-grid-snake.svg" /></div>
 
