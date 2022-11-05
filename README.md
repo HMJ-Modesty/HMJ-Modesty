@@ -19,4 +19,4 @@
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/HMJ-Modesty/HMJ-Modesty/assets/github-contribution-grid-snake.svg" /></div>
 
 <!-- profile-3d-contrib -->
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/HMJ-Modesty/HMJ-Modesty/assets/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
+<div align="center" ><img src="https://cdn.jsdelivr.net/gh/HMJ-Modesty/HMJ-Modesty/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
