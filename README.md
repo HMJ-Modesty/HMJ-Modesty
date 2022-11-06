@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines= 欢迎来到Modesty-何同学的代码空间！！！&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到Modesty-何同学的代码空间！！！&center=true&size=27">
   </a>
 </h1>
 <!-- 个人资料徽标 -->
